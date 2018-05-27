@@ -96,5 +96,9 @@
   },
   {
     "id": "stealth"
+  },
+  {
+	"id": "poison"
+	"title": "Poison Damage"
   }
 ]
