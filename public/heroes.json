@@ -6,7 +6,7 @@
       "support": true,
       "global": true,
       "pushing": true
-      "posion": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/abathur/bust.jpg"
@@ -31,7 +31,7 @@
       "support": true,
       "healer": true,
       "escape": true
-      "posion": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/alexstrasza/bust.jpg"
@@ -44,7 +44,7 @@
       "support": true,
       "healer": true,
       "cc": true
-      "posion": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/ana/bust.jpg"
@@ -138,7 +138,7 @@
       "selfsustain": true,
       "stun": true,
       "slow": true
-      "posion: true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/blaze/bust.jpg"
@@ -181,7 +181,7 @@
       "escape": true,
       "waveclear": true,
       "solo": true
-      "posion": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/chen/bust.jpg"
@@ -196,7 +196,7 @@
       "dd": true,
       "initiation": true,
       "waveclear": true
-      "posion": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/chogall/bust.jpg"
