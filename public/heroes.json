@@ -6,6 +6,7 @@
       "support": true,
       "global": true,
       "pushing": true
+      "posion": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/abathur/bust.jpg"
@@ -30,6 +31,7 @@
       "support": true,
       "healer": true,
       "escape": true
+      "posion": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/alexstrasza/bust.jpg"
@@ -42,6 +44,7 @@
       "support": true,
       "healer": true,
       "cc": true
+      "posion": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/ana/bust.jpg"
@@ -135,6 +138,7 @@
       "selfsustain": true,
       "stun": true,
       "slow": true
+      "posion: true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/blaze/bust.jpg"
@@ -177,6 +181,7 @@
       "escape": true,
       "waveclear": true,
       "solo": true
+      "posion": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/chen/bust.jpg"
@@ -191,6 +196,7 @@
       "dd": true,
       "initiation": true,
       "waveclear": true
+      "posion": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/chogall/bust.jpg"
@@ -346,6 +352,7 @@
       "mobility": true,
       "finisher": true,
       "escape": true
+      "poison": true
   },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/genji/bust.jpg"
@@ -377,6 +384,7 @@
       "selfsustain": true,
       "cc": true,
       "solo": true
+      "poison": true
   },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/guldan/bust.jpg"
@@ -466,6 +474,7 @@
       "waveclear": true,
       "burst": true,
       "stun": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/kaelthas/bust.jpg"
@@ -594,6 +603,7 @@
       "finisher": true,
       "solo": true,
       "aa": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/lunara/bust.jpg"
@@ -656,6 +666,7 @@
       "initiation": true,
       "finisher": true,
       "mobility": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/malthael/bust.jpg"
@@ -710,6 +721,7 @@
       "stun": true,
       "escape": true,
       "solo": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/murky/bust.jpg"
@@ -727,6 +739,7 @@
       "cc": true,
       "summons": true,
       "solo": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/nazeebo/bust.jpg"
@@ -784,6 +797,7 @@
       "finisher": true,
       "solo": true,
       "aa": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/ragnaros/bust.jpg"
@@ -897,6 +911,7 @@
       "stun": true,
       "initiation": true,
       "solo": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/stitches/bust.jpg"
@@ -915,6 +930,7 @@
       "silence": true,
       "roots": true,
       "aa": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/stukov/bust.jpg"
@@ -934,6 +950,7 @@
       "initiation": true,
       "escape": true,
       "mobility": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/sylvanas/bust.jpg"
@@ -1007,6 +1024,7 @@
       "initiation": true,
       "finisher": true,
       "solo": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/thrall/bust.jpg"
@@ -1103,6 +1121,7 @@
       "finisher": true,
       "stealth": true,
       "escape": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/valeera/bust.jpg"
@@ -1158,6 +1177,7 @@
       "solo": true,
       "summons": true,
       "aa": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/xul/bust.jpg"
@@ -1177,6 +1197,7 @@
       "scout": true,
       "solo": true,
       "summons": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/zagara/bust.jpg"
@@ -1214,6 +1235,7 @@
       "mobility": true,
       "stealth": true,
       "aa": true
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/zeratul/bust.jpg"
