@@ -1234,8 +1234,8 @@
       "escape": true,
       "mobility": true,
       "stealth": true,
-      "aa": true
-      "poison": true,
+      "aa": true,
+      "poison": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/zeratul/bust.jpg"
