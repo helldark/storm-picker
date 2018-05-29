@@ -5,7 +5,7 @@
       "dd": true,
       "support": true,
       "global": true,
-      "pushing": true
+      "pushing": true,
       "poison": true
     },
     "images": {
@@ -30,7 +30,7 @@
       "ranged": true,
       "support": true,
       "healer": true,
-      "escape": true
+      "escape": true,
       "poison": true
     },
     "images": {
@@ -43,7 +43,7 @@
       "ranged": true,
       "support": true,
       "healer": true,
-      "cc": true
+      "cc": true,
       "poison": true
     },
     "images": {
@@ -137,7 +137,7 @@
       "waveclear": true,
       "selfsustain": true,
       "stun": true,
-      "slow": true
+      "slow": true,
       "poison": true
     },
     "images": {
@@ -180,7 +180,7 @@
       "finisher": true,
       "escape": true,
       "waveclear": true,
-      "solo": true
+      "solo": true,
       "poison": true
     },
     "images": {
@@ -195,7 +195,7 @@
       "mage": true,
       "dd": true,
       "initiation": true,
-      "waveclear": true
+      "waveclear": true,
       "poison": true
     },
     "images": {
@@ -351,7 +351,7 @@
       "dd": true,
       "mobility": true,
       "finisher": true,
-      "escape": true
+      "escape": true,
       "poison": true
   },
     "images": {
@@ -383,7 +383,7 @@
       "waveclear": true,
       "selfsustain": true,
       "cc": true,
-      "solo": true
+      "solo": true,
       "poison": true
   },
     "images": {
@@ -473,7 +473,7 @@
       "mage": true,
       "waveclear": true,
       "burst": true,
-      "stun": true
+      "stun": true,
       "poison": true
     },
     "images": {
@@ -602,7 +602,7 @@
       "selfsustain": true,
       "finisher": true,
       "solo": true,
-      "aa": true
+      "aa": true,
       "poison": true
     },
     "images": {
@@ -665,7 +665,7 @@
       "selfsustain": true,
       "initiation": true,
       "finisher": true,
-      "mobility": true
+      "mobility": true,
       "poison": true
     },
     "images": {
@@ -720,7 +720,7 @@
       "selfsustain": true,
       "stun": true,
       "escape": true,
-      "solo": true
+      "solo": true,
       "poison": true
     },
     "images": {
@@ -738,7 +738,7 @@
       "selfsustain": true,
       "cc": true,
       "summons": true,
-      "solo": true
+      "solo": true,
       "poison": true
     },
     "images": {
@@ -796,7 +796,7 @@
       "initiation": true,
       "finisher": true,
       "solo": true,
-      "aa": true
+      "aa": true,
       "poison": true
     },
     "images": {
@@ -910,7 +910,7 @@
       "selfsustain": true,
       "stun": true,
       "initiation": true,
-      "solo": true
+      "solo": true,
       "poison": true
     },
     "images": {
@@ -929,7 +929,7 @@
       "cc": true,
       "silence": true,
       "roots": true,
-      "aa": true
+      "aa": true,
       "poison": true
     },
     "images": {
@@ -949,7 +949,7 @@
       "silence": true,
       "initiation": true,
       "escape": true,
-      "mobility": true
+      "mobility": true,
       "poison": true
     },
     "images": {
@@ -1023,7 +1023,7 @@
       "stun": true,
       "initiation": true,
       "finisher": true,
-      "solo": true
+      "solo": true,
       "poison": true
     },
     "images": {
@@ -1120,7 +1120,7 @@
       "blind": true,
       "finisher": true,
       "stealth": true,
-      "escape": true
+      "escape": true,
       "poison": true
     },
     "images": {
@@ -1176,7 +1176,7 @@
       "initiation": true,
       "solo": true,
       "summons": true,
-      "aa": true
+      "aa": true,
       "poison": true
     },
     "images": {
@@ -1196,7 +1196,7 @@
       "global": true,
       "scout": true,
       "solo": true,
-      "summons": true
+      "summons": true,
       "poison": true
     },
     "images": {
@@ -1235,7 +1235,7 @@
       "mobility": true,
       "stealth": true,
       "aa": true
-      "poison": true
+      "poison": true,
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/zeratul/bust.jpg"
